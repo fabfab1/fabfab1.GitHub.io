@@ -1,17 +1,5 @@
 body {
-        background-image: url("images/bgimage_cm75.jpg");
-}
-
-table {
-    color: black;
-    text-align: center;
-    font-family: "Times New Roman", Times, serif;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    font-size: 1.7vw;
-    margin-right: 5%;
-    margin-left: 5%;
+        background-image: url("images/bgimage_cm100.jpg");
 }
 
 h1 {
@@ -50,7 +38,7 @@ h4 {
     font-family: "Times New Roman", Times, serif;
     font-style: normal;
     font-weight: normal;
-/*    font-variant: small-caps;*/
+    font-variant: small-caps;
     font-size: 1.7vw;
 }
 
@@ -61,9 +49,7 @@ p {
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
-    font-size: 1.7vw;
-    margin-right: 5%;
-    margin-left: 5%;
+    font-size: 1vw;
 }
 
 .card {

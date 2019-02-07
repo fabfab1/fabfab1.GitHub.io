@@ -2,12 +2,15 @@ Something doesn't quite seem right though, and I can't quite put my finger on it
 
 
 - community archaeology in CH title
-- sfondo - change to carta millemetrata
-- card titles larger
-- explicitly archaeology in header
-see I hodder page
-- Urkesh (Syria) remove ancient
-palace image change to one for fieldwork, new for fieldwork
-- card 2 - excavations misspelled
+- explicitly archaeology in header see I hodder page
+- Urkesh (Syria) remove ancient palace image change to one for fieldwork, new for fieldwork
 field project first
-explain how these are my projects
+- explain how these are my projects
+add theory?
+
+
+from gB ZD206
+Personal website.
+
+    I would add a discursive section, where to highlight goals and achievements.
+    It wold be good to even just a short statement for all pages; several are now empty and it does not look good, especially for a DH application
