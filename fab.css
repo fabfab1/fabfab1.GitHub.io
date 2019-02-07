@@ -2,6 +2,11 @@ body {
         background-image: url("images/bgimage_cm100.jpg");
 }
 
+h {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
 h1 {
     color: black;
     text-align: center;
@@ -42,6 +47,15 @@ h4 {
     font-size: 1.7vw;
 }
 
+h5 {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2vw;
+}
+
 p {
     color: black;
     text-align: left;
@@ -50,6 +64,9 @@ p {
     font-weight: normal;
     font-variant: normal;
     font-size: 1vw;
+    text-indent: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
 .card {
