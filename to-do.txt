@@ -13,3 +13,4 @@ from gB ZD206
 Personal website.
 
     I would add a discursive section, where to highlight goals and achievements.
+    It wold be good to even just a short statement for all pages; several are now empty and it does not look good, especially for a DH application

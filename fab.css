@@ -52,8 +52,8 @@ h5 {
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     font-style: normal;
-    font-weight: normal;
-    font-size: 1.2vw;
+    font-weight: bold;
+    font-size: 1.5vw;
 }
 
 p {
@@ -63,10 +63,23 @@ p {
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
-    font-size: 1vw;
+    font-size: 1.4vw;
     text-indent: 5%;
     margin-right: 5%;
     margin-left: 5%;
+}
+
+figcaption {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: normal;
+    font-variant: normal;
+    font-size: 1.25vw;
+    margin-right: 5%;
+    margin-left: 5%;
+
 }
 
 .card {
