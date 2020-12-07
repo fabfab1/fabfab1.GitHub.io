@@ -83,9 +83,7 @@
           </div>
         </div>
       </a>
-      <!-- Card 8 - CV --> <a href="CV.html"
-
-        target="_blank">
+      <!-- Card 8 - CV --> <a href="CV.html" target="_blank">
         <div class="card"> <img src="images/BuccellatiF-eurialo_better.jpg" alt="CV"
 
             style="width:100%">
@@ -114,7 +112,7 @@
           Buccellati GitHub</a> </div>
       <div><a href="https://www.zotero.org/groups/2367681/f._buccellati_bibliography/library"><img
 
-            src="images/zotero_icon.jpg" alt="Zotero icon" style="width: 30px; height: 30px;">
+            src="images/zotero_icon.png" alt="Zotero icon" style="width: 30px; height: 30px;">
           F. Buccellati Zotero Bibliography</a></div>
       <div><a href="https://hcommons.org/members/buccellatif/"><img src="images/hcommons.png"
 
